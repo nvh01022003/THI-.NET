@@ -1,0 +1,26 @@
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.csprojAssemblyReference.cache
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.frm_DangKy.resources
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.frm_Main.resources
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.Properties.Resources.resources
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.csproj.GenerateResource.cache
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.csproj.CoreCompileInputs.cache
+E:\Học tập\C#\bailamkt\bailamkt\bin\Debug\QLPHONGGYM.mdf
+E:\Học tập\C#\bailamkt\bailamkt\bin\Debug\QLPHONGGYM_log.ldf
+E:\Học tập\C#\bailamkt\bailamkt\bin\Debug\bailamkt.exe.config
+E:\Học tập\C#\bailamkt\bailamkt\bin\Debug\bailamkt.exe
+E:\Học tập\C#\bailamkt\bailamkt\bin\Debug\bailamkt.pdb
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.exe
+E:\Học tập\C#\bailamkt\bailamkt\obj\Debug\bailamkt.pdb
+E:\Học tập\C#\Bài tự luận 1\bailamkt\bin\Debug\QLPHONGGYM.mdf
+E:\Học tập\C#\Bài tự luận 1\bailamkt\bin\Debug\QLPHONGGYM_log.ldf
+E:\Học tập\C#\Bài tự luận 1\bailamkt\bin\Debug\bailamkt.exe.config
+E:\Học tập\C#\Bài tự luận 1\bailamkt\bin\Debug\bailamkt.exe
+E:\Học tập\C#\Bài tự luận 1\bailamkt\bin\Debug\bailamkt.pdb
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.csprojAssemblyReference.cache
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.frm_DangKy.resources
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.frm_Main.resources
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.Properties.Resources.resources
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.csproj.GenerateResource.cache
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.csproj.CoreCompileInputs.cache
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.exe
+E:\Học tập\C#\Bài tự luận 1\bailamkt\obj\Debug\bailamkt.pdb

@@ -1,0 +1,13 @@
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\bin\Debug\NHANVIEN.mdf
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\bin\Debug\NHANVIEN_log.ldf
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\bin\Debug\Bài tự luận 2.exe.config
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\bin\Debug\Bài tự luận 2.exe
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\bin\Debug\Bài tự luận 2.pdb
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài tự luận 2.csprojAssemblyReference.cache
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài_tự_luận_2.frm_DangNhap.resources
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài_tự_luận_2.Properties.Resources.resources
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài tự luận 2.csproj.GenerateResource.cache
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài tự luận 2.csproj.CoreCompileInputs.cache
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài tự luận 2.exe
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài tự luận 2.pdb
+E:\Học tập\C#\Bài tự luận 2\Bài tự luận 2\obj\Debug\Bài_tự_luận_2.frm_QLNV.resources
